@@ -5,6 +5,7 @@ This repository contains code for a user interface application that serves as a 
 ## Instructions for MacOS:
 
 1. **Clone the repository to your local computer:**
+
 `git clone https://github.com/Mahsarnzh/Autoinjector_Digital_Twin.git`
 
 2. **Navigate to the cloned directory in the terminal:**
