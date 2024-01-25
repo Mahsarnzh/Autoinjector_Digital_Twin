@@ -9,14 +9,17 @@ This repository contains code for a user interface application that serves as a 
 `git clone https://github.com/Mahsarnzh/Autoinjector_Digital_Twin.git`
 
 2. **Navigate to the cloned directory in the terminal:**
+
 `cd Autoinjector_Digital_Twin`
 
 
 3. **Activate the Conda environment:**
+
 `conda activate st2130`
 
 
 4. **Run the application locally using Streamlit:**
+
 `streamlit run app.py`
 
 
