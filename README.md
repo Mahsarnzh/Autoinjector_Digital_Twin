@@ -2,7 +2,7 @@
 
 This repository contains code for a user interface application that serves as a Digital Twin (DT) framework for an autoinjector.
 
-![Sample frame](https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making/blob/main/Monte_Carlo_Probability_Decision_Making/MDP.png)
+![Sample frame](https://github.com/Mahsarnzh/Autoinjector_Digital_Twin/blob/main/Amgen_needle.png)
 
 
 
