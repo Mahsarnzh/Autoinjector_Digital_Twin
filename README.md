@@ -4,6 +4,11 @@ This repository contains code for a user interface application that serves as a 
 ![Sample frame](https://github.com/Mahsarnzh/Autoinjector_Digital_Twin/blob/main/Digital_Twin_definition.png)
 
 
+The digital twin uses the following dynamics to mimic he behaviour of the autoinjector:
+
+![Sample frame](https://github.com/Mahsarnzh/Autoinjector_Digital_Twin/blob/main/Amgen_needle.png)
+
+
 ## Instructions for MacOS:
 
 1. **Clone the repository to your local computer:**
@@ -32,4 +37,3 @@ Feel free to explore and contribute!
 
 
 
-![Sample frame](https://github.com/Mahsarnzh/Autoinjector_Digital_Twin/blob/main/Amgen_needle.png)
