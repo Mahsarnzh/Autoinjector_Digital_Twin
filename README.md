@@ -2,7 +2,6 @@
 
 This repository contains code for a user interface application that serves as a Digital Twin (DT) framework for an autoinjector.
 ![Sample frame](https://github.com/Mahsarnzh/Autoinjector_Digital_Twin/blob/main/Digital_Twin_definition.png)
-![Sample frame](https://github.com/Mahsarnzh/Autoinjector_Digital_Twin/blob/main/Amgen_needle.png)
 
 
 ## Instructions for MacOS:
@@ -33,3 +32,4 @@ Feel free to explore and contribute!
 
 
 
+![Sample frame](https://github.com/Mahsarnzh/Autoinjector_Digital_Twin/blob/main/Amgen_needle.png)
