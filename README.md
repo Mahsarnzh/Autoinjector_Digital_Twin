@@ -12,7 +12,10 @@
 
 3. **Activate the Conda environment:**
 
-`conda activate st2130`
+`
+conda create --name st2130 python=3.8
+conda activate st2130
+`
 
 
 4. **Run the application locally using Streamlit:**
